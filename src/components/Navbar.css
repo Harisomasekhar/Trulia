@@ -1,0 +1,13 @@
+/* src/components/Navbar.css */
+.group:hover .group-hover\:block {
+    display: block;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
